@@ -1,0 +1,56 @@
+C:\Users\chbz\source\repos\my-users\userapi\bin\Debug\netcoreapp2.1\userapi.deps.json
+C:\Users\chbz\source\repos\my-users\userapi\bin\Debug\netcoreapp2.1\userapi.runtimeconfig.json
+C:\Users\chbz\source\repos\my-users\userapi\bin\Debug\netcoreapp2.1\userapi.runtimeconfig.dev.json
+C:\Users\chbz\source\repos\my-users\userapi\bin\Debug\netcoreapp2.1\userapi.dll
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.csprojAssemblyReference.cache
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.csproj.CoreCompileInputs.cache
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.RazorAssemblyInfo.cache
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.RazorAssemblyInfo.cs
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.AssemblyInfoInputs.cache
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.AssemblyInfo.cs
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.RazorTargetAssemblyInfo.cache
+C:\Users\chbz\source\repos\my-users\userapi\bin\Debug\netcoreapp2.1\userapi.pdb
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.dll
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.pdb
+C:\Users\chbz\source\repos\my-users\userapi\bin\Debug\netcoreapp2.1\userapi.Views.dll
+C:\Users\chbz\source\repos\my-users\userapi\bin\Debug\netcoreapp2.1\userapi.Views.pdb
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.TagHelpers.input.cache
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.TagHelpers.output.cache
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.RazorCoreGenerate.cache
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.RazorTargetAssemblyInfo.cs
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.Views.pdb
+C:\Users\chbz\source\repos\my-users\userapi\obj\Debug\netcoreapp2.1\userapi.csproj.CopyComplete
+C:\Users\chbz\source\repos\my-users - Copy\userapi\bin\Debug\netcoreapp2.1\userapi.deps.json
+C:\Users\chbz\source\repos\my-users - Copy\userapi\bin\Debug\netcoreapp2.1\userapi.runtimeconfig.json
+C:\Users\chbz\source\repos\my-users - Copy\userapi\bin\Debug\netcoreapp2.1\userapi.runtimeconfig.dev.json
+C:\Users\chbz\source\repos\my-users - Copy\userapi\bin\Debug\netcoreapp2.1\userapi.dll
+C:\Users\chbz\source\repos\my-users - Copy\userapi\bin\Debug\netcoreapp2.1\userapi.pdb
+C:\Users\chbz\source\repos\my-users - Copy\userapi\bin\Debug\netcoreapp2.1\userapi.Views.dll
+C:\Users\chbz\source\repos\my-users - Copy\userapi\bin\Debug\netcoreapp2.1\userapi.Views.pdb
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.csprojAssemblyReference.cache
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.csproj.CoreCompileInputs.cache
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.RazorAssemblyInfo.cache
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.RazorAssemblyInfo.cs
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.AssemblyInfoInputs.cache
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.AssemblyInfo.cs
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.TagHelpers.input.cache
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.TagHelpers.output.cache
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.RazorCoreGenerate.cache
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.RazorTargetAssemblyInfo.cache
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.RazorTargetAssemblyInfo.cs
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.Views.pdb
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.dll
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.pdb
+C:\Users\chbz\source\repos\my-users - Copy\userapi\obj\Debug\netcoreapp2.1\userapi.csproj.CopyComplete

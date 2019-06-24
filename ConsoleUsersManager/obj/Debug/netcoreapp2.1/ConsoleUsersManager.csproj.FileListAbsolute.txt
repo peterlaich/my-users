@@ -1,0 +1,16 @@
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\bin\Debug\netcoreapp2.1\ConsoleUsersManager.deps.json
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\bin\Debug\netcoreapp2.1\ConsoleUsersManager.runtimeconfig.json
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\bin\Debug\netcoreapp2.1\ConsoleUsersManager.runtimeconfig.dev.json
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\bin\Debug\netcoreapp2.1\ConsoleUsersManager.dll
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\bin\Debug\netcoreapp2.1\ConsoleUsersManager.pdb
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\obj\Debug\netcoreapp2.1\ConsoleUsersManager.csprojAssemblyReference.cache
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\obj\Debug\netcoreapp2.1\ConsoleUsersManager.csproj.CoreCompileInputs.cache
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\obj\Debug\netcoreapp2.1\ConsoleUsersManager.AssemblyInfoInputs.cache
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\obj\Debug\netcoreapp2.1\ConsoleUsersManager.AssemblyInfo.cs
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\obj\Debug\netcoreapp2.1\ConsoleUsersManager.dll
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\obj\Debug\netcoreapp2.1\ConsoleUsersManager.pdb
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\bin\Debug\netcoreapp2.1\userapi.Views.dll
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\bin\Debug\netcoreapp2.1\userapi.Views.pdb
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\bin\Debug\netcoreapp2.1\userapi.dll
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\bin\Debug\netcoreapp2.1\userapi.pdb
+C:\Users\chbz\source\repos\my-users\ConsoleUsersManager\obj\Debug\netcoreapp2.1\ConsoleUsersManager.csproj.CopyComplete
