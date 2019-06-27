@@ -6,8 +6,7 @@ using System.Text.RegularExpressions;
 
 namespace ConsoleUsersManager
 {
-    /* This is to handle all console commands */
-    
+    /* This is to handle all console commands  */
     class InterfaceMgr
     {
         public const string CommandView = "view";
